@@ -1,0 +1,12 @@
+[ 
+    { 
+        "classId": 1, 
+        "className": "Physics", 
+        "classDesc": "Grade 11 Physics" 
+    }, 
+    { 
+        "classId": 2, 
+        "className": "Math", 
+        "classDesc": "Grade 11 Math" 
+    } 
+]

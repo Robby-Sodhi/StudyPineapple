@@ -1,0 +1,67 @@
+.wrapper {
+    border-radius: 50%;
+    background-color: #FFFFFA;
+    justify-content: center;
+    text-align: center;
+}
+
+.date {
+    font-size: 0.5rem;
+    transform: translate(-200px, 20px);
+}
+
+.subject {
+    font-size: 1rem;
+    transform: translate(0px, 20px);
+}
+
+.description {
+    font-size: 0.75rem;
+    transform: translate(0px, 20px);
+}
+
+input[type=text], select {
+    width: 25%;
+    background-color: #FFFFFA;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    display: flex;
+    border: 1px solid #0D5C63;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transform: translate(34vw, 1vh);
+
+}
+
+textarea, select {
+    width: 25%;
+    background-color: #FFFFFA;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    display: flex;
+    border: 1px solid #0D5C63;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transform: translate(34vw, 1vh);
+
+}
+
+.buttonSubmit {
+    width: 15%;
+    background-color: #247B7B;
+    padding: 6px 20px;
+    margin: 8px 0px;
+    display: flex;
+    border: 1px solid #0D5C63;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transform: translate(34vw, 1vh);
+}
+
+.ranText {
+    transform: translate(43vw, 1.5vh);
+}
+
+.submitAudio {
+    transform: translate(49.5vw, -1.5rem);
+}

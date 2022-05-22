@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: visby;
+    color: #0D5C63;
+    z-index: 10;
+}
+
+span {
+    position: relative;
+    top: 15px;
+    left: 25px;
+}
+
+.logo {
+    font-size: 2.5rem;
+    max-width: 2.5%;
+    position: relative;
+    top: 0px;
+    left: 0%;
+    text-decoration: none;
+}
+.logo:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.t2 {
+    position: relative;
+    text-decoration: none;
+    display: inline;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-size: 2rem;
+}
+
+.t2:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.login {
+    background-color: #247B7B;
+    color: #FFFFFA;
+    font-size: 2rem; 
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 15px;
+    text-decoration: none;
+    display: inline-block;
+}
+.login:hover {
+    opacity: 0.75;
+    cursor: pointer;
+}

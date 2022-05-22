@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "elite-vista-350802",
+  "private_key_id": "442168605ee7e9ae9e1fc17c5a47f662c96651f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAn+XdPWQsZ0XE\nOosp2eLea2fmBeEt/rsgREpKKUEiGsAvdaHIaTmWWIvKOcS7L833gKqlaf4GNuJm\n5E2R5ozGM89y+1DA+UjvsFT8/tqUH/Cq3BdJB8hlH2b+4JFTqwkt07Fu8/nFlkXk\njLf8HN8zVecNqFa4eaU/n6XRPWhh+Ca8Qycezx2noVuUDMGBbbIbaYhTFlzURXuT\nWWh0lGRfV8aO0kwI0Ho0YWgm51fFOc39Zecbk7ATybFmyBnaTntEnd9xq3avbpb/\nwDQ/lFAmRvZwyUCuAbJooaNbGApby6s40l+2t9H2ntq2m26xKxUP2tbWlDP04G3b\nZWq2wLHzAgMBAAECggEAP1o3nTisQihjG0NP8t9NDO8RWGd1pI2DmPys3FBOMjvP\nGqzbHVFyVb7glw3B5Pi3iqAAP/Ao0n1poAKVepdzlFqE76G1cQpsER0TDrR5Sj9p\nBaDmbagIIi4eT1Snp3d4yOA3mrDWZMRkT2NyvZH3XOhzWhwUDY9AqLjGrhc+xf1n\naTx9uN4ToqueUX4/ipaGak0Xh0S6RmY1kmyOgJZifycaSo00kXOD/Z37b9B0bjYM\n3KFECwV4BQJXjCQwUcFL/fCKx4br2d3t5E/g9E1SIDw2KeRbQlv1/3mUNKjI8IRM\nKP4cpINUJt/xGu1IRwGRUvdYKEH0yQoCN234KV1NLQKBgQD0uCJnawjUY4RFQv5V\ndpH6sTpxhTf8XexosNR6Vb9F60OABHOu24w8iK07l0w01fqQZkhR3FBaL08kf/I/\n9rZXlIY0mq3jGh0I3hr/V78GsS3ErXuxvYzngARkknX5WGuYH1CvX5h4ky4XITDK\nfwPZpr3b/rP5F8r6soYbfPNQpwKBgQDJgQIpE1UR5KZ3ka12/ShSfj5vnv5ZTI2t\nQLyoRVax0jnZQ/m056rH0iZJUTlZ7a30tjCbkXHkceRumRq4OYcrnOShPI2e4XU2\nYdq7iKF+JgMj5r/OXXoywsF8QW1I0zAhq0q9J2tabmJHx91qwwqBAjdHm7NMmg2d\nL8tX52CR1QKBgDFKJSPPWyfsI2gP5kowZ5amu67BtlUOVd+APkulmbDrgdz3CJXf\ngo9ut/WYs7CwqJcNAuP6C/UeMkKXwqM/fdqF/8H4pa1oRRDUK3vioIcoiJ9kkdVq\n6EZ4cmoPVdOzC3jIVef8ySj/+/iMptciXhQokXUOCBHTyP5Vls1SjW9hAoGAfNft\nGr3biwZ7DMG5E2utu85zqHx9YZ5IePsO58JuACYbqTywTSDrcnoFNo+YVNspV+A5\nJWlrgvn9aXh6UYFy+dZu4Ga/55wQHu1ps57nT10FvQyN8bGAsEpxziZLKz+NJo8V\n8zOlE5YoVgjCag8FRwC0dy1EXUVlAepGteOotTECgYAcC9p6I1ss6qX/rQ+Lf8ai\nhqtYLaDeDXH8F3Ev6JUTY65i6xdqkRhP0U+4wgU4hYs+u5vtBHd37yggn/dw/zJ3\nvkleEhu6uV9Evvlzn70I6CYDO+rhQxaXF6AwwyfvqhTE2+X4B5L/Og6p9eXNY1Xg\n0KVbuxvl/fLfhzEzAd5bsg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "studybuddy@elite-vista-350802.iam.gserviceaccount.com",
+  "client_id": "108948139865180777448",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/studybuddy%40elite-vista-350802.iam.gserviceaccount.com"
+}

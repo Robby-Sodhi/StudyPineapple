@@ -1,0 +1,9 @@
+.inputbob {
+    transform: translate(40vw, 5vh);
+    display: flex;
+}
+
+.btnbob {
+    transform: translate(60vw, 2.5vh);
+    display: flex;
+}
